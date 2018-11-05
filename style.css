@@ -1,0 +1,12 @@
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blue
+  font-size: 16px;
+  font-family: 'Helvetica';
+}
+
+#products_title { color: blue;}
